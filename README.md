@@ -1,4 +1,4 @@
-## Focal Agent POC
+
   This is a POC for ecommerce application connected to firebase remote config, has local database and realtime ads
 
 # Getting Started
@@ -16,7 +16,7 @@ Clone this repository:
 
 # shell
   Copy code
-  git clone https://github.com/MohamedElshatlawy/FocalAgent-Coding-Task
+ 
   Change into the project directory:
 
 # shell
